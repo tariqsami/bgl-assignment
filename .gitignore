@@ -1,0 +1,4 @@
+vendor
+composr.lock
+*.cache
+*.log
