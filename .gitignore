@@ -1,4 +1,4 @@
 vendor
-composr.lock
+composer.lock
 *.cache
 *.log
